@@ -1,6 +1,6 @@
 name: hoarding
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - gsl==2.4=h1de35cc_4
   - argon2-cffi==20.1.0=py38h9ed2024_1
